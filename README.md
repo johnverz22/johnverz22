@@ -1,34 +1,33 @@
-# John Verz
+# Hi, I'm Johnny Verzola
 
-🚀 Welcome to my GitHub profile! I build projects focused on practical software development, automation, and problem solving.
+Software developer focused on full-stack web and mobile development, backend systems, and automation. I enjoy turning practical problems into working products, from ride-hailing platforms to clinic management systems.
 
-## 👋 About Me
-- GitHub: [@johnverz22](https://github.com/johnverz22)
-- I enjoy building and improving real-world projects.
-- Currently growing my portfolio through hands-on repositories.
+## About
 
-## 🧰 Tech Stack
-- Languages: JavaScript, TypeScript, Python, HTML/CSS, PHP, Java, Dart
-- Tools: Git, GitHub, VS Code, Laravel, Flutter, Spring Boot
-- Interests: Web apps, mobile apps, backend APIs, and DevOps
+- 💻 Full-stack developer with experience across web, mobile, and backend systems
+- 🏗️ Building and maintaining a portfolio of production-oriented projects
+- 📚 Currently expanding expertise in DevOps and scalable application architecture
 
-## 📌 Featured Projects
-- [shop-system](https://github.com/johnverz22/shop-system) — Shop management system project.
-- [snhs-student-attendance-monitoring](https://github.com/johnverz22/snhs-student-attendance-monitoring) — Student attendance monitoring solution.
-- [tobacco-leaf-classification](https://github.com/johnverz22/tobacco-leaf-classification) — ML-based tobacco leaf classification.
-- [springboot_mysql_user_registration](https://github.com/johnverz22/springboot_mysql_user_registration) — User registration backend with Spring Boot + MySQL.
-- [flutter_cam_classifier](https://github.com/johnverz22/flutter_cam_classifier) — Flutter camera classifier app.
+## Tech Stack
 
-## 🎓 Coursework & Practice Repositories
-- `webdev1-2026`, `webdev2-2025`, `appdev-2026`, `mobdev2-2026`
-- `compro2-2026`, `oop-2026`, `ite3-2026`, `ite4-2026`, `infoman2-2026`
+**Languages:** JavaScript, TypeScript, Python, PHP, Java, Dart, HTML/CSS
+**Frameworks & Tools:** Laravel, Spring Boot, Flutter, Git, GitHub, VS Code
+**Areas of Focus:** Web applications, mobile applications, backend APIs, DevOps
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnverz22&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnverz22&layout=compact&theme=tokyonight)
+## Featured Projects
 
-## 🌐 Connect
-- Add your LinkedIn / portfolio links here
+| Project | Description |
+|---|---|
+| [SakAI](https://github.com/LDSPrgrm/SakAI) | Ride-hailing application for the Philippine market, with real-time booking and driver-matching features |
+| [Fixo](https://github.com/orgs/Fixo-NZ/repositories) | Marketplace platform connecting homeowners with local tradespeople across New Zealand |
+| [oneinsurance](https://github.com/johnverz22/oneinsurance) | Insurance marketplace enabling users to compare and purchase policies online |
+| [ohn-ape](https://github.com/johnverz22/ohn-ape) | Clinic management system for scheduling, patient records, and administrative workflows |
+| [snhs-student-attendance-monitoring](https://github.com/johnverz22/snhs-student-attendance-monitoring) | Web-based system for tracking and reporting student attendance in schools |
 
----
-Thanks for visiting my profile ✨
+## Coursework & Practice Repositories
+
+`webdev1-2026` · `webdev2-2025` · `appdev-2026` · `mobdev2-2026` · `compro2-2026` · `oop-2026` · `ite3-2026` · `ite4-2026` · `infoman2-2026`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/johnverz/) · [GitHub](https://github.com/johnverz22)
