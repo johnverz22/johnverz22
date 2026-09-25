@@ -1,32 +1,43 @@
-# Hi, I'm Johnny Verzola
+# Hi, I'm Johnny Verzola 👋
 
-Software developer focused on full-stack web and mobile development, backend systems, and automation. I enjoy turning practical problems into working products, from ride-hailing platforms to clinic management systems.
+**Software Developer | Full-Stack Engineer | AI & Automation Enthusiast**
 
-## About
+I build practical software solutions across web, mobile, backend systems, and intelligent automation. My work focuses on turning real-world requirements into reliable, maintainable products—from business platforms and payment systems to AI-assisted applications and infrastructure tools.
 
-- 💻 Full-stack developer with experience across web, mobile, and backend systems
-- 🏗️ Building and maintaining a portfolio of production-oriented projects
-- 📚 Currently expanding expertise in DevOps and scalable application architecture
+## What I Do
 
-## Tech Stack
+- Develop full-stack web applications and backend APIs
+- Build mobile applications and cross-platform experiences
+- Design workflow automation and AI-assisted software solutions
+- Work with databases, integrations, deployment environments, and developer tooling
+- Translate business problems into scalable, production-oriented systems
 
-**Languages:** JavaScript, TypeScript, Python, PHP, Java, Dart, HTML/CSS
-**Frameworks & Tools:** Laravel, Spring Boot, Flutter, Git, GitHub, VS Code
-**Areas of Focus:** Web applications, mobile applications, backend APIs, DevOps
+## Technical Focus
 
-## Featured Projects
+**Languages**  
+JavaScript · TypeScript · Python · PHP · Java · Dart · HTML/CSS
+
+**Frameworks & Platforms**  
+Laravel · Spring Boot · Flutter · REST APIs · Git · GitHub · Linux
+
+**Areas of Interest**  
+AI automation · Backend engineering · Web and mobile applications · Payment systems · DevOps · System integration · Scalable architecture
+
+## Selected Projects
 
 | Project | Description |
 |---|---|
-| [SakAI](https://github.com/LDSPrgrm/SakAI) | Ride-hailing application for the Philippine market, with real-time booking and driver-matching features |
-| [Fixo](https://github.com/orgs/Fixo-NZ/repositories) | Marketplace platform connecting homeowners with local tradespeople across New Zealand |
-| [oneinsurance](https://github.com/johnverz22/oneinsurance) | Insurance marketplace enabling users to compare and purchase policies online |
-| [ohn-ape](https://github.com/johnverz22/ohn-ape) | Clinic management system for scheduling, patient records, and administrative workflows |
-| [snhs-student-attendance-monitoring](https://github.com/johnverz22/snhs-student-attendance-monitoring) | Web-based system for tracking and reporting student attendance in schools |
+| [dlt-payments](https://github.com/johnverz22/dlt-payments) | Payment-focused software project exploring digital transactions and backend integration. |
+| [ohn-ape](https://github.com/johnverz22/ohn-ape) | Clinic management system for appointments, patient records, and administrative workflows. |
+| [coursegen](https://github.com/johnverz22/coursegen) | Course-generation project focused on streamlining educational content and workflow creation. |
+| [school-lab-deployment](https://github.com/johnverz22/school-lab-deployment) | Deployment and infrastructure resources for managing school laboratory environments. |
+| [sakAi](https://github.com/freelancerz26/sakAi) | Ride-hailing platform concept for the Philippine market, including booking and driver-matching workflows. |
+| [b2b-marketplace](https://github.com/1halal/b2b-marketplace) | Business-to-business marketplace project for connecting organizations and facilitating commercial workflows. |
+| [smartspend-app](https://github.com/Zushikina-kun/smartspend-app) | AI-powered personal finance application for recording, understanding, and managing everyday spending. |
 
-## Coursework & Practice Repositories
+## Current Direction
 
-`webdev1-2026` · `webdev2-2025` · `appdev-2026` · `mobdev2-2026` · `compro2-2026` · `oop-2026` · `ite3-2026` · `ite4-2026` · `infoman2-2026`
+I am currently deepening my skills in **AI automation, backend architecture, DevOps, and intelligent business systems**. I am especially interested in building software that reduces repetitive work, improves decision-making, and creates better digital experiences.
 
 ## Connect
 
