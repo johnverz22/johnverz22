@@ -28,11 +28,12 @@ AI automation · Backend engineering · Web and mobile applications · Payment s
 | Project | Description |
 |---|---|
 | [dlt-payments](https://github.com/johnverz22/dlt-payments) | Payment-focused software project exploring digital transactions and backend integration. |
-| [ohn-ape](https://github.com/johnverz22/ohn-ape) | Clinic management system for appointments, patient records, and administrative workflows. |
+| [ohn-ape](https://github.com/johnverz22/ohn-ape) | Clinic management system for appointments, patient records, and administrative workflows. [Live site](https://ape.onehealthnetwork.com.ph/login)  |
+| [oneinsurance](https://github.com/johnverz22/oneinsurance) | Insurance marketplace enabling users to compare and purchase policies online. [Live site](https://stage.oneinsurance.shop/) |
 | [coursegen](https://github.com/johnverz22/coursegen) | Course-generation project focused on streamlining educational content and workflow creation. |
 | [school-lab-deployment](https://github.com/johnverz22/school-lab-deployment) | Deployment and infrastructure resources for managing school laboratory environments. |
 | [sakAi](https://github.com/freelancerz26/sakAi) | Ride-hailing platform concept for the Philippine market, including booking and driver-matching workflows. |
-| [b2b-marketplace](https://github.com/1halal/b2b-marketplace) | Business-to-business marketplace project for connecting organizations and facilitating commercial workflows. |
+| [b2b-marketplace](https://github.com/1halal/b2b-marketplace) | Business-to-business marketplace project for connecting organizations and facilitating commercial workflows. [Live site](https://1halalstore.com)  |
 
 ## Current Direction
 
