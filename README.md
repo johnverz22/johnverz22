@@ -33,7 +33,6 @@ AI automation · Backend engineering · Web and mobile applications · Payment s
 | [school-lab-deployment](https://github.com/johnverz22/school-lab-deployment) | Deployment and infrastructure resources for managing school laboratory environments. |
 | [sakAi](https://github.com/freelancerz26/sakAi) | Ride-hailing platform concept for the Philippine market, including booking and driver-matching workflows. |
 | [b2b-marketplace](https://github.com/1halal/b2b-marketplace) | Business-to-business marketplace project for connecting organizations and facilitating commercial workflows. |
-| [smartspend-app](https://github.com/Zushikina-kun/smartspend-app) | AI-powered personal finance application for recording, understanding, and managing everyday spending. |
 
 ## Current Direction
 
